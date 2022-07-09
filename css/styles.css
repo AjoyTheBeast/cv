@@ -1,0 +1,16 @@
+body {
+  background-color: #b9fffb32;
+}
+hr {
+  border: 6px rgb(190, 202, 189);
+  border-top-style: dotted;
+  width: 5%;
+}
+img {
+  height: auto;
+  width: 200px;
+}
+h1,h3{
+    color: #BB2205;
+    font-family: sans-serif;
+}
